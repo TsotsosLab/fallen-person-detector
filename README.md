@@ -8,6 +8,8 @@ stereo camera data for passively sensing the environment. The key novelty is a h
 
 [Click here for the associated paper.](https://arxiv.org/pdf/1707.07608.pdf)
 
+[Original home of this project](https://github.com/solbach/fallen-person-detector)
+
 ## Requirements
 - ROS Kinetic
 - [openpose-ros](https://github.com/solbach/openpose-ros/blob/master/README.md) and all its requirements
