@@ -2,7 +2,7 @@
 With this system we present a new , non-invasive approach for fallen people detection. Our approach uses only
 stereo camera data for passively sensing the environment. The key novelty is a human fall detector which uses a CNN based human pose estimator in combination with stereo data to reconstruct the human pose in 3D and estimate the ground plane in 3D. We have tested our approach in different scenarios covering most activities elderly people might encounter living at home. Based on our extensive evaluations, our systems shows high accuracy and almost no miss-classification.
 
-![GitHub Logo](/misc/steps.jpg)
+![System steps](/misc/steps.jpg)
 
 
 
@@ -48,6 +48,11 @@ arXiv preprint arXiv:1707.07608 (2017).
 
 
 Accepted at [ACVR 2017](http://iplab.dmi.unict.it/acvr2017/index.php): Updated citation will follow soon.
+
+## System Overview
+
+![System steps](/misc/overview.png)
+
 
 ## COPYRIGHT NOTICE
 
